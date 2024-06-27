@@ -1,0 +1,85 @@
+Which top 10 states including District of Columbia contributed the most to increase in homicide rates in USA between 2020-2022 ?
+
+What is the corelation between homicide rates of LA with the various weather parameters  between the years 2014 and 2022
+
+What is the corelation between deaths from homicide at LA with the various weather parameters  between the years 2014 and 2022
+
+What is the corelation between deaths from homicide at LA with dry bulb temparature between the years 2014 and 2022
+
+What are the corelation values between deaths from homicide in  LA with the various weather parameters between the years 2014 and 2022
+
+What is the corelation between homicide rates of LA and the weather between the years 2014 and 2022
+
+Which top 10 states witnessed the largest increase in deaths due to homicide between 2014 and 2022 ?
+
+For each state compute the increase in deaths between 2014 and 2022 then sort them in decreasing order
+
+How many deaths from homicide did LA witness each year between 2014 and 2022 ?
+
+For each state in the table above add a column with the increase in homicide deaths between 2014 and 2022
+
+What is the corelation between deaths from homicide in Louisiana (LA) with the various weather parameters between the years 2014 and 2022
+
+The files have data for extreme weather warnings for thunderstorms in Mississipi between 2014 and 2023. The "issue" column denotes the start of the extreme weather event and the "expire" column denotes the end of the extreme weather event. From this data can you compute the number of occurences of extreme weather warnings each year and their average durations ?
+
+Corelate the homicide rate in Mississipi with the number of occurences of extreme weather warnings for flooding each year and their duration between the years 2014 and 2022
+
+Summarize the corelations for the various weather events in New Mexico with homicide rates 
+Which top 5 states witnessed the highest increase in homicide rates between 2014 to 2022 ?
+
+Which top 10 states witnessed the highest increase in homicide rates between 2014 to 2022 ?
+
+Did any of these states witness unusual heat waves between 2014 and 2022 ?
+
+Plot seasonal temperature against homicide rates.
+
+Can you average this data monthly ?
+
+Plot the average temperatures for summer months between 2014-2022
+
+Analyze corelation between temparature and homicide rate for Washington DC
+
+Analyze corelation between summer temperature and homicide rate for Washington DC
+
+Analyze corelation between winter temperature and homicide rate for Washington DC
+
+Analyze corelation between spring temperature and homicide rate for Washington DC
+
+Analyze corelation between autumn temperature and homicide rate for Washington DC
+
+Find the co-relation of homicide rate in Mississippi with temparature between 2014 and 2022
+
+Plot the average temperatures for summer months between 2014-2022
+
+Plot the average temperatures for winter months between 2014-2022
+
+Plot the average temperatures for spring months between 2014-2022
+
+Plot the average temperatures for autumn months between 2014-2022
+
+Show temperature trends from 2014-2022.
+
+This numbers in this file are the difference between monthly average monthly temperature of Washington DC and the expected historically normal temperature for each month between 2014 and 2022
+
+What are the trends for apparent temparature, wet bulb temperature and heat index
+
+Assume that the values of the Monthly-Maximum_Temparature-STDDEV colum are the standard deviations of maximum temparature. What is the standard deviation of maximum temparature each month ?
+
+This is not correct. The number of days in a year cannot exceed 365
+
+Corelate the homicide rates in Mississipi between 2014 and 2022 with the number of unusually warm days between 2014 and 2022 computed above
+
+For each day of each year between 2014 and 2022 compute the difference between dry bulb temparature in farenheit and the historical apparent temparature for the month the day belongs to then find out if it is greater than one standard deviation for the month. If it is greater than one standard deviation then that day is unusually warm.  Following this methodology calculate how many days of each year between 2014 and 2022 were unsually warm. 
+
+
+
+
+
+
+
+
+
+
+
+
+
